@@ -1,7 +1,7 @@
 
 
 python3 -m polygonembed.dbtopo.train_spa_rel.py  \
---data_dir ./data_proprocessing/dbtopo/output/  \
+--data_dir ./data_processing/dbtopo/output/  \
 --model_dir ./model_dir/dbtopo/  \
 --log_dir ./model_dir/dbtopo/  \
 --pgon_filename pgon_300_gdf_prj.pkl  \
