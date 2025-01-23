@@ -1,14 +1,8 @@
 # Towards General-Purpose Representation Learning of Polygonal Geometries - GIS3D Project
-Code for recreting the results in [our GeoInformatica 2023 paper](https://link.springer.com/article/10.1007/s10707-022-00481-2)
-
 
 ## Related Link
 1. [Springr Paper](https://link.springer.com/article/10.1007/s10707-022-00481-2)
 2. [Arxiv Paper](https://arxiv.org/abs/2209.15458)
-
-## Award
-1. This paper won [AAG 2023 J. Warren Nystrom Award (1 award recipient every year)](https://www.aag.org/award-grant/nystrom/)
-2. This paper won [AAG 2022 William L. Garrison Award for Best Dissertation in Computational Geography (1 award recipient every other year)](https://www.aag.org/aag-announces-2022-award-recipients/)
 
 ## Our Model Overview
 <p align="center">
