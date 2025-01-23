@@ -4,15 +4,13 @@
 1. [Springr Paper](https://link.springer.com/article/10.1007/s10707-022-00481-2)
 2. [Arxiv Paper](https://arxiv.org/abs/2209.15458)
 
-## Our Model Overview
+## Model Overview
 <p align="center">
   <img src="image/model.png" alt="model" width="1000" />
 </p>
 
 ## Dependencies
-- Python 3.7+
-- Torch 1.7.1+
-- Other required packages are summarized in `requirements.txt`.
+Rquired packages are summarized in `requirements.txt`.
 
 ## Data
 Download the required dbtopo datasets from [here](https://www.dropbox.com/scl/fo/ubokquibjibxqb71lduto/h?rlkey=gnex7g3gx51g06gmd1v1um9u1&dl=0) and put them in `./data_proprocessing/dbtopo/output/` folder. The folder has two datasets:
