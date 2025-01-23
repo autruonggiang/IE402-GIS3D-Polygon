@@ -1,4 +1,4 @@
-# Towards General-Purpose Representation Learning of Polygonal Geometries
+# Towards General-Purpose Representation Learning of Polygonal Geometries - GIS3D Project
 Code for recreting the results in [our GeoInformatica 2023 paper](https://link.springer.com/article/10.1007/s10707-022-00481-2)
 
 
