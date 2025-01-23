@@ -10,7 +10,7 @@
 </p>
 
 ## Dependencies
-Rquired packages are summarized in `requirements.txt`.
+Required packages are summarized in `requirements.txt` and others.
 
 ## Data
 Download the required dbtopo datasets from [here](https://www.dropbox.com/scl/fo/ubokquibjibxqb71lduto/h?rlkey=gnex7g3gx51g06gmd1v1um9u1&dl=0) and put them in `./data_proprocessing/dbtopo/output/` folder. The folder has two datasets:
