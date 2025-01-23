@@ -1,4 +1,4 @@
-# Towards General-Purpose Representation Learning of Polygonal Geometries - GIS3D Project
+# Nghiên cứu về học biểu diễn đa năng cho hình học đa giác - IE402 Project
 
 ## Related Link
 1. [Springr Paper](https://link.springer.com/article/10.1007/s10707-022-00481-2)
