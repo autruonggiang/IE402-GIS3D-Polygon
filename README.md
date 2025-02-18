@@ -1,5 +1,21 @@
 # Nghiên cứu về học biểu diễn đa năng cho hình học đa giác - IE402 Project
 
+## **SOURCE CODE & RELATED CONTENT**  
+- **GitHub Repository (Original Research Paper):**  
+   🔗 [GitHub - polygon_encoder](https://github.com/gengchenmai/polygon_encoder)  
+
+- **Model Training & Evaluation:**  
+   🔗 [Colab - Model Training](https://colab.research.google.com/drive/1lTanYey5ZxqTCpBBdljNicaBrRVLjukw?usp=sharing)  
+
+- **Prediction Demo:**  
+   🔗 [Colab - Spatial Relation Prediction](https://colab.research.google.com/drive/1j9fGgpyP7h1zjPXYtubU2kLxvBwt8esd?usp=sharing)  
+
+- **Project Presentation Slides:**  
+   🎤 [Canva - GIS3D Presentation](https://www.canva.com/design/DAGZ7VVZdps/rjEIxWjiSedOkJWqkj8PfQ/edit)  
+
+- **Demo on Streamlit:**  
+   🔗 [Streamlit - GIS3D Demo](https://drive.google.com/file/d/1LVCVglIr1SnxvLbCCbzM4_GEEOswx-sZ/view?usp=sharing)  
+
 ## Related Link
 1. [Springr Paper](https://link.springer.com/article/10.1007/s10707-022-00481-2)
 2. [Arxiv Paper](https://arxiv.org/abs/2209.15458)
